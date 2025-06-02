@@ -31,7 +31,6 @@ const HomeCards = () => {
                             Add Job
                         </a>
                     </Card>
-    
 
 
                 </div>
